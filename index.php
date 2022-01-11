@@ -31,6 +31,10 @@ echo "Je dors enfin...<br><br>";
  * Utililisez les deux exemples en haut pour compter 25 vaches.
  */
 
-
 // TODO Votre code ici !
+$nombreVache =1;
+while ($nombreVache <=25) {
+    echo $nombreVache ." Vaches <br>";
+    $nombreVache++;
+}
 
